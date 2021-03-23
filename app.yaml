@@ -1,5 +1,5 @@
 runtime: php55
-service: gae-vue
+service: default
 threadsafe: true
 
 handlers:
