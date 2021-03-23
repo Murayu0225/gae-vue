@@ -12,6 +12,7 @@ handlers:
   upload: dist/(.*)
 
 skip_files:
+- .git/
 - node_modules/
 - public/
 - src/
